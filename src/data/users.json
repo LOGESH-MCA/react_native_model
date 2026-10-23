@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "Admin",
+      "email": "admin@grocery.com",
+      "password": "admin@123",
+      "phone": "9000000000",
+      "address": "Daily Grocery Head Office",
+      "role": "Admin"
+    },
+    {
+      "id": "cust-1",
+      "name": "Logesh",
+      "email": "logesh@grocery.com",
+      "password": "logesh@123",
+      "phone": "9876543210",
+      "address": "Green Garden, Block 4, Flat 201",
+      "role": "Customer"
+    }
+  ]
+}
